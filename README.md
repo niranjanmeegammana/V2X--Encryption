@@ -38,4 +38,4 @@ Kandy, Sri Lanka
 Harinda Fernando
 Dept. of Computer Systems Engineering
 Sri Lanka Institute of Information Technology
-Malabe, Sri Lank
+Malabe, Sri Lanka
